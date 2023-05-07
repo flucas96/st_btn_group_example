@@ -10,7 +10,7 @@ st.set_page_config(page_title="Streamlit Button Group Component", layout="wide")
 
 st.title("Streamlit Button Group Component")
 
-st.markdown("Install using pip: `pip install st-btn-group` (https://pypi.org/project/st-bnt-group/)")
+st.markdown("Install using pip: `pip install st-bnt-group` (https://pypi.org/project/st-bnt-group/)")
 st.divider()
 
 st.subheader("As a Download Button")
