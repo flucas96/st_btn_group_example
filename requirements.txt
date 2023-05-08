@@ -1,3 +1,4 @@
 streamlit
 st-bnt-group
 pandas
+openpyxl
